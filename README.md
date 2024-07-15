@@ -28,6 +28,22 @@ O pré-processamento dos dados incluiu:
 
 
 # Modelagem
+Foram realizados alguns testes estatísticas na etapa de modelagem. 
+
+- Correlação de Pearson
+- Power Predict Score (PPscore)
+- Decomposição da serie temporal
+- Teste de Hurst
+- Teste de Variância Reescalonada
+- Teste Dickey-Fuller
+- Teste de Kpss
+- Teste Phillips-Perron
+- Teste de Shapiro-Wilk
+- Teste de Skewness e Kurtosis
+- Autocorrelação (ACF e PACF)
+- Teste de Ljung-Box
+
+# Treinamento 
 Vários modelos foram testados para prever séries temporais e outras variáveis dependentes. Entre os modelos testados estão:
 
 - Regressão Linear
