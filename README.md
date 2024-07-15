@@ -48,7 +48,7 @@ Vários modelos foram testados para prever séries temporais e outras variáveis
 
 - Regressão Linear
 - ARIMA/ARIMAX
-- SARIAMA/SARIMAX
+- SARIMA/SARIMAX
 - Exponential Smoothing
 - Prophet
 - XGBoost
